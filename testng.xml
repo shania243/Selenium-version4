@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.newConcepts.GeoLocation"/>
+      <class name="com.newConcepts.FirefoxHeadless"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
