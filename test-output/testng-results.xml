@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15616" started-at="2020-08-26T08:22:57Z" finished-at="2020-08-26T08:23:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15616" started-at="2020-08-26T08:22:57Z" finished-at="2020-08-26T08:23:13Z">
+      <class name="com.newConcepts.GetRect">
+        <test-method status="PASS" signature="getrect()[pri:0, instance:com.newConcepts.GetRect@6d7b4f4c]" name="getrect" duration-ms="15554" started-at="2020-08-26T08:22:57Z" finished-at="2020-08-26T08:23:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getrect -->
+      </class> <!-- com.newConcepts.GetRect -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
